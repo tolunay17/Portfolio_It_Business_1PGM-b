@@ -131,7 +131,7 @@ header .brand {
   text-decoration: none;
 }
 
-.brand span {
+.brand span:hover {
   color: #000016;
 }
 
