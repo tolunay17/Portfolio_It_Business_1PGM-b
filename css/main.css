@@ -218,7 +218,6 @@ body {
 
 .about .content .col-right {
   position: relative;
-  /* width: 50%; */
 }
 
 @media (min-width: 64rem) {
